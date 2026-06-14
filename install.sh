@@ -43,3 +43,5 @@ brew-install ffmpeg
 brew-install imagemagick
 brew-install tree
 brew-install firefox --cask
+
+brew-install alt-tab --cask
