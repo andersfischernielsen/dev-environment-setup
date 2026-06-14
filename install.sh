@@ -20,6 +20,7 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git "$HOME/.oh-my-z
 
 brew-install visual-studio-code --cask
 brew-install zed --cask
+brew-install micro
 
 brew-install orbstack --cask
 
