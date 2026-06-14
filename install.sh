@@ -47,3 +47,5 @@ brew-install firefox --cask
 brew-install alt-tab --cask
 brew-install rectangle --cask
 brew-install jordanbaird-ice --cask
+
+brew-install fantastical --cask
