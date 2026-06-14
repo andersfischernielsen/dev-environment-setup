@@ -31,8 +31,6 @@ brew-install gh
 
 brew-install kubectl
 
-brew-install tree
-
 brew-install node
 brew-install vite-plus
 
@@ -41,3 +39,4 @@ brew-install uv
 
 brew-install ffmpeg
 brew-install imagemagick
+brew-install tree
