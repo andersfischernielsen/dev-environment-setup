@@ -18,6 +18,8 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 echo "Installing 'powerlevel10k'"
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git "$HOME/.oh-my-zsh/custom/themes/powerlevel10k"
 
+brew-install iterm2 --cask 
+
 brew-install visual-studio-code --cask
 brew-install zed --cask
 brew-install micro
