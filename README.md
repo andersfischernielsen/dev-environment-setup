@@ -17,6 +17,6 @@ git config --global user.name $NAME
 git config --global user.email $EMAIL
 git config --global core.editor micro
 
-mkdir -p "~/Library/Application Support/iTerm2/DynamicProfiles"
-cp iterm-profile.json "~/Library/Application Support/iTerm2/DynamicProfiles/iterm-profile.json"
+mkdir -p "$HOME/Library/Application Support/iTerm2/DynamicProfiles"
+cp iterm-profile.json "$HOME/Library/Application Support/iTerm2/DynamicProfiles/iterm-profile.json"
 ```
